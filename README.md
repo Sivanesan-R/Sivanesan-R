@@ -40,7 +40,7 @@
 <img 
     align="left" 
     alt="coding-gif" 
-    width="400" 
+    width="300" 
     src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
 />
 
