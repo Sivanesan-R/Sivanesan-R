@@ -44,17 +44,15 @@
     src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
 />
 
-
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 
 <p>
   🌱 I am currently developing my programming skills.<br>
   💬 Skilled in programming languages Java, Python, and SQL.<br>
-  🧠 Familiar technologies like Machine Learning, HTML, and CSS.<br>
-  🛠️ Tools I use include Jupyter Notebook,VS Code, GitHub and IntelliJ.<br>
-  ⚡ Interested in fields like Data Science, Artificial Intelligence and Machine Learning.<br>
-  <!--✨ I only like perfection.-->
+  🧠 Familiar with technologies like Machine Learning, HTML, and CSS.<br>
+  🛠️ Tools I use include Jupyter Notebook, VS Code, GitHub, and IntelliJ.<br>
+  ⚡ Interested in fields like Data Science, Artificial Intelligence, and Machine Learning.<br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
