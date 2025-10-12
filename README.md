@@ -4,14 +4,8 @@
 
 <img src="https://github.com/Sivanesan-R/Sivanesan-R/blob/main/Japanese%20Wheat%20Field.gif" height="300" width="1000" >
 
-<!-- <img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/> -->
 
 <div align="center">
-
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
 <!-- Greeting -->
@@ -39,8 +33,6 @@
 
 </div>
 
-    
-<!--👀 VIEWS / 🌐 WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img 
     align="left" 
     alt="coding-gif" 
@@ -73,27 +65,11 @@
   </a>
 </div>
 
-
-
-
-  
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
 </div></h4>
 
 </div>
 <br/>
 
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
-
-
-
-<!-- git stat-->
 <h3 align="center">🌱 Github Status</h3>
 
 <div align="center">
@@ -102,8 +78,6 @@
 </div>
 
 <br/><br/>
-
-
 
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
@@ -117,24 +91,5 @@
 
 
 <br/>
-
-<!-- <div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
-    <a href="https://github.com/JoshuaThadi/Generative-AI">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/Web-Development">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Web-Development&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/Digital-Products">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Digital-Products&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-</div> -->
-
-<!-- <img src="https://github.com/Sivanesan-R/Sivanesan-R/blob/main/Japanese%20Wheat%20Field.gif" height="310" width="1500" > -->
 
 <img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
