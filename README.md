@@ -55,14 +55,25 @@
   ⚡ Interested in fields like Data Science, Artificial Intelligence, and Machine Learning.<br>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sivanesan-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sivanesan-ravichandran" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/carinfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/carinfo" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sivanesh.ravi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sivanesh.ravi.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sivanesh_ravi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sivanesh_ravi/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sivanesan_e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sivanesan_e/" height="30" width="40" /></a>
-</p>
+<h3 style="text-align: center;">Connect with me:</h3>
+
+<div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 10px;">
+  <a href="https://linkedin.com/in/sivanesan-ravichandran" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/carinfo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/sivanesh.ravi.5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sivanesh_ravi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/sivanesan_e/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</div>
 
 
 
