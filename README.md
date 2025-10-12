@@ -59,7 +59,7 @@
   <a href="mailto:rsivanesan285gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="www.linkedin.com/in/sivanesan-ravichandran" target="_blank">
+  <a href="https://www.linkedin.com/in/sivanesan-ravichandran" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/sivanesh_ravi/" target="_blank">
