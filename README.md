@@ -1,6 +1,10 @@
 
 <!-- MasterHead -->
-<img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
+
+
+<img src="https://github.com/Sivanesan-R/Sivanesan-R/blob/main/Japanese%20Wheat%20Field.gif" height="300" width="1000" >
+
+<!-- <img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/> -->
 
 <div align="center">
 
@@ -131,7 +135,6 @@
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Digital-Products&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
 </div> -->
 
+<!-- <img src="https://github.com/Sivanesan-R/Sivanesan-R/blob/main/Japanese%20Wheat%20Field.gif" height="310" width="1500" > -->
 
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+<img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
