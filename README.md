@@ -43,13 +43,15 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 
-<p>
-  🌱 I am currently developing my programming skills.<br>
-  💬 Skilled in programming languages Java, Python, and SQL.<br>
-  🧠 Familiar with technologies like Machine Learning, HTML, and CSS.<br>
-  🛠️ Tools I use include Jupyter Notebook, VS Code, GitHub, and IntelliJ.<br>
-  ⚡ Interested in fields like Data Science, Artificial Intelligence, and Machine Learning.<br>
-</p>
+<div style="font-family: 'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 1.6;">
+
+🌱 I am currently developing my programming skills.  
+💬 Skilled in programming languages such as **Java**, **Python**, and **SQL**.  
+🧠 Familiar with technologies like **Machine Learning**, **HTML**, and **CSS**.  
+🛠️ Tools I use include **Jupyter Notebook**, **VS Code**, **GitHub**, and **IntelliJ IDEA**.  
+⚡ Interested in fields such as **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
+
+</div>
 
 <h3 style="text-align: center;">Connect with me:</h3>
 
